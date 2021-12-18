@@ -21,6 +21,3 @@ Class: Name
        Location / Branch
        
 Ability to choose their status
-
-
-xx
