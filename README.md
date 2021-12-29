@@ -13,7 +13,6 @@ Ability to Notify Employees
 
 Should see a list of all the employees with their location and status 
 
-
 ## Employees
 Class: Name
        Number
