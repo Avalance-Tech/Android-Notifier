@@ -1,6 +1,7 @@
 # Android-Notifier
 
 Simple GUI
+Add maps
 
 ## Head-Admin
 Create accounts (leaders or employees)
