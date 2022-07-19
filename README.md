@@ -1,6 +1,7 @@
 # Android-Notifier
 
 Simple GUI
+Add pages
 Add maps
 
 ## Head-Admin
