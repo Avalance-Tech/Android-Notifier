@@ -1,6 +1,7 @@
 # Android-Notifier
 
 Simple GUI
+Add user hierachies
 Add maps
 
 ## Head-Admin
