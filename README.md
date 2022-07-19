@@ -1,6 +1,7 @@
 # Android-Notifier
 
 Simple GUI
+Add pages
 Add user hierachies
 Add maps
 
