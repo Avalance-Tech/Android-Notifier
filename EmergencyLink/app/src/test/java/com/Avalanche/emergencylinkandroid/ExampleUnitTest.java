@@ -1,4 +1,4 @@
-package com.Avalanche.emergencylinkandroid;
+package com.avalanche.emergencylinkandroid;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.Avalanche.emergencylinkandroid;
+package com.avalanche.emergencylinkandroid;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.Avalanche.emergencylinkandroid", appContext.getPackageName());
+        assertEquals("com.avalanche.emergencylinkandroid", appContext.getPackageName());
     }
 }
